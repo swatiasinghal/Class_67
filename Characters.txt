@@ -1,3 +1,5 @@
 boy 
 girl
 kids
+
+trees birds flowers
